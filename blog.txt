@@ -3,3 +3,5 @@ Este es el ejemplo para trabajar con git.
 Comenzaremos a editar nuestro archivo, por ejemplo este texto no estaba incluido en
 el primer commit.
 
+La idea del blog es crear un archivo que iremos modificando para poder ver en accion
+los efectos de git.
