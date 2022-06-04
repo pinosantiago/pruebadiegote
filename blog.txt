@@ -1,1 +1,5 @@
 Este es el ejemplo para trabajar con git.
+
+Comenzaremos a editar nuestro archivo, por ejemplo este texto no estaba incluido en
+el primer commit.
+
