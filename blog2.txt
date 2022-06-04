@@ -1,2 +1,6 @@
 Este es el segundo archivo de nuestro proyecto.
 Sera trabajado en otra rama.
+
+seguimos trabajando en el blog 2.......
+
+bien con eso sera suficiente es hora de hacer un merge!
