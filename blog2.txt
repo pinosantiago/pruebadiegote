@@ -1,0 +1,2 @@
+Este es el segundo archivo de nuestro proyecto.
+Sera trabajado en otra rama.
